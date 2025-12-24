@@ -1,0 +1,17 @@
+
+export const COLORS = {
+  SAPPHIRE_DEEP: '#001a33',
+  SAPPHIRE_LITE: '#004080',
+  ARCTIC_BLUE: '#add8e6',
+  SILVER_METALLIC: '#C0C0C0',
+  PLATINUM_BRIGHT: '#E5E4E2',
+  ICE_GLOW: '#00f2ff',
+  GOLD_METALLIC: '#D4AF37',
+  GOLD_BRIGHT: '#FFD700',
+};
+
+export const LUXURY_THEME = {
+  treeNeedle: COLORS.SAPPHIRE_DEEP,
+  ornamentSilver: COLORS.SILVER_METALLIC,
+  glowStrength: 2.0,
+};
